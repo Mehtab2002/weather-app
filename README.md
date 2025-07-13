@@ -22,7 +22,7 @@ A responsive weather app developed using **HTML**, **CSS**, and **JavaScript**. 
 
 ## 📸 Screenshots
 
-![Weather Data](screenshots/result.png)
+![Weather Data](https://github.com/Mehtab2002/weather-app/blob/1f799c2e713f6aa2efb9319d016226ab0b025623/Weather.png)
 
 ## 📁 Folder Structure
 
